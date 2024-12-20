@@ -9,8 +9,18 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.1.1",
     "@astrojs/check": "^0.9.4",
+    "@astrojs/react": "^4.1.2",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "astro": "^5.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "saveplays-footer": "^0.0.2",
+    "saveplays-navbar": "^0.0.3",
     "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "sass": "^1.83.0"
   }
 }

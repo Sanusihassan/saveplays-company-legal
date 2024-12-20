@@ -1,0 +1,15 @@
+@import "cssmolecule";
+@import "custom-bs";
+@import "./scss/mixins";
+
+@include bootstrap;
+
+@import "saveplays-footer/src/scss/_footer.scss";
+@import "saveplays-navbar/src/scss/_navbar.scss";
+
+
+body {
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 400;
+    font-style: normal;
+}
